@@ -37,9 +37,14 @@
   width: 66%;
 }
 
-.col-3, .col-4{
+.col-3{
   float: left;
   width: 32%;
+}
+
+.col-4 {
+  display: inline-block;;
+  width: 31.33%;
 }
 
 .col-5 {
@@ -52,10 +57,7 @@
   width: 31.33%;
 }
 
-.col-4 {
-  float: left;
-  width: 31.33%;
-}
+
 
 
 
