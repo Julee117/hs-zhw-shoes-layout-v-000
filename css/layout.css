@@ -40,11 +40,13 @@
 .col-2.shoe {
   float: left;
   width: 32%;
+  position: relative;
 }
 
 .col-2.shoe-2 {
   float: left;
   width: 32%;
+  position: relative;
 }
 
 [class*="col-"] {
