@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+
+.shadow.col-2 {
+  float: left;
+}
 .shadow.col-1 {
   float: right;
 }
