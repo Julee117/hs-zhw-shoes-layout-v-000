@@ -23,6 +23,11 @@
 }
 
 /* Posititoning Classes */
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
 .milk_text {
   padding: 20px 0;
 }
