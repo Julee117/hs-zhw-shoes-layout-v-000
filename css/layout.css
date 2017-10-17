@@ -37,11 +37,6 @@
   width: 66%;
 }
 
-.shadow.col-1 {
-  display: block;
-  width: 100%;
-}
-
 [class*="col-"] {
   margin-left: 2%;
 }
