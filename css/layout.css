@@ -23,7 +23,6 @@
 }
 
 /* Posititoning Classes */
-
 .shadow.col-2 {
   float: left;
   width: 66%;
@@ -32,4 +31,9 @@
 .shadow.col-1 {
   float: right;
   width: 32%;
+}
+
+.shadow.col-3 {
+  float: left;
+  width: 33.3333%;
 }
