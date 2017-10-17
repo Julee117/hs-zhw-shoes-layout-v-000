@@ -44,12 +44,11 @@
 .col-3{
   float: left;
   width: 32%;
-  margin-right: 56%;
   clear: both;
 }
 
 .col-4 {
-  display: inline-block;
+  float: left 
   width: 32%;
   margin-left: 34%;
   clear: both;
@@ -61,4 +60,3 @@
   margin-left: 2%;
   clear: both;
 }
-
