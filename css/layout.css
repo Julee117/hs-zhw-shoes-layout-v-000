@@ -28,5 +28,9 @@
 }
 
 .col-3, .col-5 {
-  width: 33%;
+  width: 32%;
+}
+
+.col-4 {
+  width: 32%
 }
