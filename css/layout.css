@@ -33,6 +33,22 @@
   width: 32%;
 }
 
+.shadow.col-3 {
+  float: left;
+  width: 31%;
+}
+
+.shadow.col-3 {
+  float: left;
+  width: 31%;
+}
+
+.shadow.col-4 {
+  float: left;
+  width: 31%;
+}
+
+
 
 /*[class*="col-"] {
   margin-left: 2%;
