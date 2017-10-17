@@ -23,6 +23,11 @@
 }
 
 /* Posititoning Classes */
+
+#wood {
+  overflow: hidden;
+}
+
 .milk_text {
   padding: 20px 0;
 }
