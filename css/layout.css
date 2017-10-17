@@ -23,7 +23,7 @@
 }
 
 /* Posititoning Classes */
-.col-3 .col-4 .col-5 {
+.col-3.col-4.col-5 {
   float: left;
   width: 33.33%;
 }
