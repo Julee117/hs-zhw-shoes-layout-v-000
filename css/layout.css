@@ -23,8 +23,7 @@
 }
 
 /* Posititoning Classes */
-.shadow.col-3.col-4.col-5 {
+.shadow .col-3 .col-4 .col-5 {
   float: left;
   width: 33.33%;
-  padding: 10px;
 }
