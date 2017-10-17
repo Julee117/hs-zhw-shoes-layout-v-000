@@ -27,4 +27,6 @@
   float: left;
 }
 
-.col-1, .col-5
+.col-3, .col-5 {
+  width: 33%;
+}
