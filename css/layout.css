@@ -42,6 +42,11 @@
   width: 32%;
 }
 
+.col-2.shoe-2 {
+  float: left;
+  width: 32%;
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
