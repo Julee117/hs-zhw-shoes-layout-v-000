@@ -23,5 +23,7 @@
 }
 
 /* Posititoning Classes */
-
+.shadow.col-1 {
+  float: right;
+}
 
