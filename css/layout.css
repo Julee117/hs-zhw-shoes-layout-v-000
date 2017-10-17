@@ -28,8 +28,9 @@
 }
 
 .wrapper {
-  float: left;
+  width: 100%;
 }
+
 .col-1 {
   float: left;
   width: 32%;
