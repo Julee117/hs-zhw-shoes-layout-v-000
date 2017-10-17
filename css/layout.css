@@ -29,6 +29,7 @@
 
 .shadow {
   float: left;
+  clear: both;
 }
 
 .col-1 {
