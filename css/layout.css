@@ -38,9 +38,8 @@
 }
 
 .shadow.col-1 {
-  float: left;
-  width: 32%
-  clear: both;
+  display: block;
+  width: 100%;
 }
 
 [class*="col-"] {
