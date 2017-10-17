@@ -41,8 +41,9 @@
 }
 
 .col-3{
-  display: inline-block;
+  float: left;
   width: 32%;
+  margin-right: 56%;
 }
 
 .col-4 {
