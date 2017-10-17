@@ -30,13 +30,11 @@
 .col-1 {
   float: left;
   width: 32%;
-  margin-bottom: 2%;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  margin-bottom: 2%;
 }
 
 [class*="col-"] {
@@ -45,4 +43,8 @@
 
 .first {
   margin-left: 0%;
+}
+
+section {
+  margin: 20px;
 }
