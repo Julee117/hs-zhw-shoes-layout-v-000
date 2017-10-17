@@ -26,7 +26,10 @@
 
 .shadow.col-2 {
   float: left;
+  width: 66%;
 }
+
 .shadow.col-1 {
   float: right;
+  width: 32%;
 }
