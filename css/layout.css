@@ -27,11 +27,9 @@
   padding: 20px 0;
 }
 
-.shadow {
+.wrapper {
   float: left;
-  clear: both;
 }
-
 .col-1 {
   float: left;
   width: 32%;
